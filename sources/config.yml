@@ -1,0 +1,6 @@
+sources:
+  - Luxurious-Script.glyphs
+familyName: "Luxurious Script"
+outputDir: "../fonts/Script"
+buildVariable: false
+#autohintTTF: false
