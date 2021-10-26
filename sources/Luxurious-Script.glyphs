@@ -51,7 +51,7 @@ date = "2021-10-26 16:38:35 +0000";
 designer = "Robert E. Leuschke";
 designerURL = www.typesetit.com;
 disablesNiceNames = 1;
-familyName = Luxurious;
+familyName = "Luxurious Script";
 featurePrefixes = (
 {
 automatic = 1;
@@ -83159,16 +83159,6 @@ unicode = E1A9;
 );
 instances = (
 {
-customParameters = (
-{
-name = postscriptFullName;
-value = LuxuriousPro;
-},
-{
-name = postscriptFontName;
-value = LuxuriousPro;
-}
-);
 instanceInterpolations = {
 "E44713F8-1D5D-4793-848D-DDEAC8E4A199" = 1;
 };
