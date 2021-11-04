@@ -55,4 +55,4 @@ jobs:
           version: "latest"
           subcmd: "check-googlefonts"
           args: "-C --succinct --loglevel WARN --ghmarkdown fonts/report.md"
-          path: "fonts/Script/ttf/*.ttf"
+          path: "fonts/ttf/*.ttf"
