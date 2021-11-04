@@ -1,4 +1,4 @@
-# Luxurious
+# Luxurious Script
 
 Luxurious — the perfect description for this stunning formal script. It has cursive forms, with highly slanted and condensed characters, giving continuity to the over all feel of bodies of text.
 
