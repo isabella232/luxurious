@@ -55,7 +55,7 @@ name = glyphOrder;
 value = (
 .notdef,
 CR,
-NULL,
+.null,
 space,
 nbspace
 );
@@ -68,15 +68,6 @@ value = (
 {
 name = "Use Typo Metrics";
 value = 1;
-},
-{
-name = Axes;
-value = (
-{
-Name = Weight;
-Tag = wght;
-}
-);
 }
 );
 date = "2021-10-26 16:38:35 +0000";
@@ -356,17 +347,6 @@ width = 160;
 );
 note = CR;
 unicode = 000D;
-},
-{
-glyphname = NULL;
-lastChange = "2021-11-03 00:41:46 +0000";
-layers = (
-{
-layerId = "E44713F8-1D5D-4793-848D-DDEAC8E4A199";
-width = 0;
-}
-);
-note = NULL;
 },
 {
 glyphname = space;
@@ -75556,6 +75536,17 @@ width = 630;
 );
 note = robbie;
 unicode = E027;
+},
+{
+glyphname = NULL;
+lastChange = "2021-11-03 00:41:46 +0000";
+layers = (
+{
+layerId = "E44713F8-1D5D-4793-848D-DDEAC8E4A199";
+width = 0;
+}
+);
+note = NULL;
 }
 );
 instances = (
